@@ -1,0 +1,9 @@
+﻿  Logger.cpp
+  Comm.cpp
+c:\users\shahh\downloads\heli project 3\cppproj2instrsol-heli\cppcommwithfilexfer\msgpassingcomm\comm.cpp(159): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+c:\users\shahh\downloads\heli project 3\cppproj2instrsol-heli\cppcommwithfilexfer\msgpassingcomm\comm.cpp(202): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+c:\users\shahh\downloads\heli project 3\cppproj2instrsol-heli\cppcommwithfilexfer\msgpassingcomm\comm.cpp(205): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+c:\users\shahh\downloads\heli project 3\cppproj2instrsol-heli\cppcommwithfilexfer\msgpassingcomm\comm.cpp(263): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+c:\users\shahh\downloads\heli project 3\cppproj2instrsol-heli\cppcommwithfilexfer\msgpassingcomm\comm.cpp(311): warning C4244: 'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  Generating Code...
+  MsgPassingComm.vcxproj -> C:\Users\shahh\Downloads\Heli project 3\CppProj2InstrSol-Heli\Debug\MsgPassingComm.lib

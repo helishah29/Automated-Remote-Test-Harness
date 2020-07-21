@@ -1,0 +1,11 @@
+ToDo.txt
+=======================================================
+4. Demonstrate Requirements
+   - This is essentially done, but could use some clarifying tests.
+5. Update Utilities folders with new versions from this solution
+
+Done:
+=======================================================
+1. Create client that sends TestRequest message
+2. Develop means to create and parse TestRequest
+3. Load just those libraries in test request

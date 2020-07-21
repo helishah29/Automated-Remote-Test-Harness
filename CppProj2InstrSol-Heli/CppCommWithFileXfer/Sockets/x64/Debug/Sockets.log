@@ -1,0 +1,10 @@
+﻿  Logger.cpp
+  Sockets.cpp
+c:\users\shahh\downloads\gokul project 3\cppproj2instrsol\cppproj2instrsol\cppcommwithfilexfer\sockets\sockets.cpp(165): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shahh\downloads\gokul project 3\cppproj2instrsol\cppproj2instrsol\cppcommwithfilexfer\sockets\sockets.cpp(184): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shahh\downloads\gokul project 3\cppproj2instrsol\cppproj2instrsol\cppcommwithfilexfer\sockets\sockets.cpp(203): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shahh\downloads\gokul project 3\cppproj2instrsol\cppproj2instrsol\cppcommwithfilexfer\sockets\sockets.cpp(258): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shahh\downloads\gokul project 3\cppproj2instrsol\cppproj2instrsol\cppcommwithfilexfer\sockets\sockets.cpp(266): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shahh\downloads\gokul project 3\cppproj2instrsol\cppproj2instrsol\cppcommwithfilexfer\sockets\sockets.cpp(285): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  Sockets.vcxproj -> C:\Users\shahh\Downloads\Gokul project 3\CppProj2InstrSol\CppProj2InstrSol\x64\Debug\Sockets.lib

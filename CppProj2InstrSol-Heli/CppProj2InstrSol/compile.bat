@@ -1,0 +1,1 @@
+devenv CppProj2InstrSol.sln /rebuild debug
